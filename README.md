@@ -1,1 +1,1 @@
-# elek
+# elektrotexnika
